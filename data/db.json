@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 2,
+      "name": "donald"
+    },
+    {
+      "id": 3,
+      "name": "antony"
+    }
+  ],
+  "product": [
+    {
+      "name": "antony",
+      "product": "gold",
+      "id": 1
+    },
+    {
+      "name": "donald",
+      "product": "jkv",
+      "id": 2
+    },
+    {
+      "name": "antony",
+      "product": "qwer",
+      "id": 3
+    },
+    {
+      "name": "donald",
+      "product": "ertwt",
+      "id": 4
+    }
+  ]
+}
